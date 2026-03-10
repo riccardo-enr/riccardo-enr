@@ -1,12 +1,6 @@
 # Hi, I'm Riccardo Enrico
 
-I'm a robotics and software engineer passionate about building intelligent systems. I work at the intersection of robotics, computer vision, and control systems.
-
-## About Me
-
-- Working with **ROS** to develop robotic applications
-- Building performant software in **C++** and **Python**
-- Interested in autonomous systems, motion planning, and embedded software
+Robotics & software engineer. I build autonomous systems with ROS, C++, and Python.
 
 ## Tech Stack
 
