@@ -1,5 +1,7 @@
 # Hi, I'm Riccardo Enrico
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-riccardo--enr.github.io-blue?style=flat-square)](https://riccardo-enr.github.io)
+
 Robotics & software engineer. I build autonomous systems with ROS, C++, and Python.
 
 ## Tech Stack
